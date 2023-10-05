@@ -1,0 +1,47 @@
+.body_class
+{
+	background-color: lightgray;
+	font-size: 18px;
+	font-family: poppins;
+}
+.main_class
+{
+	display: flex;
+}
+.Container
+{
+	border: 2px solid black;
+	width: 50%;
+	background-color: darkgray;
+
+}
+.Container .row h3
+{
+	text-align: center;
+}
+.Container .row .task_input
+{
+	align-content: center;
+	width: 50%;
+	font-size: 18px;
+	margin: 0px 0px 20px 180px;
+}
+.Container .row .add_btn
+{
+	width: 10%;
+	font-size: 18px;
+	border-radius: 5px;
+	background-color: darkgray;
+	color: white;
+}
+.tbl_data
+{
+	margin-top: 20px;
+	width: 50%;
+	text-align: center;
+}
+.tbl_data th
+{
+	background-color:black;
+	color: white;
+}
